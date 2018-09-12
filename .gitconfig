@@ -1,0 +1,4 @@
+[alias]
+    puss = push
+    pous = push
+    pussy = reset --hard HEAD
